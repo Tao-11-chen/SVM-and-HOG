@@ -1,2 +1,2 @@
 # SVM
-Trying SVM in image classification
+Trying SVM in OCR
